@@ -1,6 +1,6 @@
 package ar.arstan.pixelmaterialcalculatorpl.domain
 
-class ExpressionWriter {
+class  ExpressionWriter {
 
     var expression = ""
 
@@ -43,7 +43,7 @@ class ExpressionWriter {
     }
 
     private fun prepareForCalculation(): String {
-        val newExpression = expression.takeLastWhile {
+        val newExpression = expression.dropLastWhile {
             it in "$operationSymbols(."
         }
 
