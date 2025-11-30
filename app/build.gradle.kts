@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = " "
+    namespace = "ar.arstan.pixelmaterialcalculatorpl"
     compileSdk {
         version = release(36)
     }
