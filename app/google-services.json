@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800738332570",
+    "project_id": "calculatorbitrise",
+    "storage_bucket": "calculatorbitrise.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800738332570:android:6612be18fe4a8071f43423",
+        "android_client_info": {
+          "package_name": "ar.arstan.pixelmaterialcalculatorpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpiOX6W9lsEF8oHw3VqgqA-HwSWrEjVGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
